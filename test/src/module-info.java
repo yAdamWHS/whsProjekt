@@ -6,4 +6,5 @@
  *
  */
 module test {
+	requires javafx.controls;
 }
